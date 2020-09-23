@@ -1,0 +1,2 @@
+# semesterprojektwebshopducks
+Vores semesterprojekt
